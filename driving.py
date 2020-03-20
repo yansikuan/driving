@@ -11,3 +11,5 @@ elif country == "America":
 		print('you can take a driving test.')
 	else:
 		print('you can not take a driving test.')
+else:
+	print('you can only choose China or America')
